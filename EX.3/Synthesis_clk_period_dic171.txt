@@ -1,0 +1,8 @@
+without_pipeline.v:
+1150ps
+
+with_pipeline.v:
+800ps
+
+optimize.v:
+600ps
